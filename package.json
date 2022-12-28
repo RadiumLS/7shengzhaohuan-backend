@@ -9,6 +9,7 @@
   "author": "radiumls",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.14.1"
+    "koa": "^2.14.1",
+    "koa-send": "^5.0.1"
   }
 }
